@@ -5,7 +5,7 @@
 
 An autoregressive integrated moving average, or ARIMA, is a statistical analysis model that uses time series data to either better understand the data set or to predict future trends.A statistical model is autoregressive if it predicts future values based on past values.
 
-#Why ARIMA?
+Why ARIMA?
 ARIMA is a method for forecasting or predicting future outcomes based on a historical time series. It is based on the statistical concept of serial correlation, where past data points influence future data points.
 
 An ARIMA model can be understood by outlining each of its components as follows:
@@ -19,7 +19,7 @@ To begin building an ARIMA model for an investment, you download as much of the 
 
 Next, determine the order of regression (p) and order of moving average (q) by comparing autocorrelations and partial autocorrelations. Once you have the information you need, you can choose the model you'll use
 
-#The Bottom Line
+The Bottom Line
 The ARIMA model is used as a forecasting tool to predict how something will act in the future based on past performance. It is used in technical analysis to predict an asset's future performance.
 
 ARIMA modeling is generally inadequate for long-term forecastings, such as more than six months ahead, because it uses past data and parameters that are influenced by human thinking. For this reason, it is best used with other technical analysis tools to get a clearer picture of an asset's performance.
