@@ -23,5 +23,3 @@ The ARIMA model is used as a forecasting tool to predict how something will act 
 
 ARIMA modeling is generally inadequate for long-term forecastings, such as more than six months ahead, because it uses past data and parameters that are influenced by human thinking. For this reason, it is best used with other technical analysis tools to get a clearer picture of an asset's performance.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dailymail.co.uk%2Fsciencetech%2Farticle-12701943%2Famericas-biggest-airlines-2050-ai.html&psig=AOvVaw29P6QCoLU2Ree-KaG_cqEF&ust=1713166478537000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC84c2YwYUDFQAAAAAdAAAAABAE![image](https://github.com/hariwhois23/BA_Lab/assets/117026847/e543ae82-3c82-48c6-869f-512ebf2f4f26)
-
